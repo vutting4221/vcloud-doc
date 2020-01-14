@@ -1,4 +1,4 @@
-## Basic User's Manual 
+## V Cloud Basic User's Manual 
 ### Login
 
 Login with your Google account or GitHub account. If you have both Google and GitHub account, when emails associated with them are same, you can either login with Google or GitHub into a same v-cloud account.
