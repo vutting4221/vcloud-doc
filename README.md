@@ -1,14 +1,14 @@
-## V Cloud Basic User's Manual （v0.1.0）
+## V Cloud Basic User's Manual （v0.1.1）
 ### Login
 
-Login with your Google account or GitHub account. If you have both Google and GitHub account, when emails associated with them are same, you can either login with Google or GitHub into a same v-cloud account.
+The V-Cloud service provides two ways to login: Google account and Github account. The email address from the login account will be associated with the V-Cloud account. If the email from both Google account and Github account are the same, they will be associated with the same V-Cloud account. (__Attention:__ If the first time logging in of Github account does not contain an email address, it will not be associated with any previous Google account further on.)
 
 ### Compute Cloud
 
 ##### Start an instance
 
-1. Prepare your key pair in v-cloud and save it. **Don't give your key pair to any one**
-2. Lanch your instance. You can connect to your instance when the status is running
+1. Create an key pair in V-Cloud and save it. **Don't give your key pair to any one**
+2. Launch your instance. You can connect to your instance when the status is running
 
 ##### Connect to your instance
    - On Linux/macOs
@@ -24,5 +24,5 @@ Login with your Google account or GitHub account. If you have both Google and Gi
 
 ### Token Service
 
-If you are an issuer of token (on v.systems chain), you can quickly build wallet and explorer for your token on v-cloud platform. Once your application is verified, the wallet and explorer will be deployed to your custom domain.
+If you are an issuer of token (on v.systems chain), you can quickly create wallet and explorer for your token on v-cloud platform. Once your application is verified, the wallet and explorer will be deployed to your custom domain.
 
