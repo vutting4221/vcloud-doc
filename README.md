@@ -4,6 +4,9 @@
 The V-Cloud service provides two ways to login: Google account and Github account. The email address from the login account will be associated with the V-Cloud account. If the email from both Google account and Github account are the same, they will be associated with the same V-Cloud account. (__Attention:__ If the first time logging in of Github account does not contain an email address, it will not be associated with any previous Google account further on.)
 
 ### Compute Cloud
+You can start computing instances on V Cloud. Currently, only Ubuntu operating systems is supported. You can find more information in Ubuntu [documentation](https://ubuntu.com/server/docs)
+ - [Ubuntu Server 18.04 LTS](https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes#Ubuntu_Server)
+ - [Ubuntu Server 16.04 LTS]()
 
 ##### Start an instance
 
